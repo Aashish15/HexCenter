@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <OFFICAL>
         <A0001>
-            <Filename>HexagonROM-bacon-V1.5-mm-OFFICIAL-20160815</Filename>
+            <Filename>HexagonROM-bacon-V1.5-mm-OFFICIAL-20160817</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest OS builds">http://googledrive.com/host/0BzF2PnPtuSklQkRoc3IxOG9uWFk/HexagonROM-bacon-V1.4-mm-OFFICIAL-20160813.zip</RomUrl>
+                description="Download latest OS builds">http://googledrive.com/host/0BzF2PnPtuSklQkRoc3IxOG9uWFk/HexagonROM-bacon-V1.5-mm-OFFICIAL-20160817.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
