@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
-        <ef63l>
-            <Filename>xOS-1.5-STABLE-16082016-ef63l</Filename>
+        <A0001>
+            <Filename>HexagonROM-bacon-V1.4-mm-OFFICIAL-20160814</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Download xOS changelogs">https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
+                description="Download Hexagon changelogs">https://www.androidfilehost.com/?w=files&amp;flid=21888</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
@@ -18,7 +18,7 @@
             <XDAUrl
                 id="xOS"
                 title="TekCafe Forum - xOS"
-                description="Visit xOS thread">https://www.tekcafe.vn/threads/xos-phien-ban-1-4-cho-vega-iron-2-im-a910s-l-k-ss-sl-android-6-0-1-marshmallow.2594/</XDAUrl>	
-	</ef63l>
+                description="Visit xOS thread">http://droidvn.com/threads/rom-hexagon-offcial-v1-4-hexagon-rom-android-marshmallow-6-0-1-cho-oneplus-one-1-1.73/</XDAUrl>	
+	</A0001>
     </Stable>
 </SlimOTA>
