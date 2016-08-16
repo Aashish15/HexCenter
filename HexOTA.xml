@@ -16,9 +16,9 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
             <XDAUrl
-                id="xOS"
-                title="TekCafe Forum - xOS"
-                description="Visit xOS thread">http://droidvn.com/threads/rom-hexagon-offcial-v1-4-hexagon-rom-android-marshmallow-6-0-1-cho-oneplus-one-1-1.73/</XDAUrl>	
+                id="Hexagon"
+                title="Droidvn Forum - Hexagon Rom"
+                description="Visit Hexagon Rom thread">http://droidvn.com/threads/rom-hexagon-offcial-v1-4-hexagon-rom-android-marshmallow-6-0-1-cho-oneplus-one-1-1.73/</XDAUrl>	
 	</A0001>
         <ef63l>
             <Filename>HexagonROM-ef63l-V1.5-mm-OFFICIAL-20160815</Filename>
@@ -35,9 +35,9 @@
             	title="Gapps"
             	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
             <XDAUrl
-                id="xOS"
-                title="TekCafe Forum - xOS"
-                description="Visit xOS thread">http://droidvn.com/threads/rom-hexagon-offcial-v1-4-hexagon-rom-android-marshmallow-6-0-1-cho-oneplus-one-1-1.73/</XDAUrl>	
+                id="Hexagon"
+                title="Droidvn Forum - Hexagon Rom"
+                description="Visit Hexagon Rom thread">http://droidvn.com/threads/rom-hexagon-offcial-v1-4-hexagon-rom-android-marshmallow-6-0-1-cho-oneplus-one-1-1.73/</XDAUrl>	
 	</ef63l>
     </OFFICAL>
 </SlimOTA>
