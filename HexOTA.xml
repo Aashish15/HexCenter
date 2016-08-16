@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
+    <OFFICAL>
         <A0001>
             <Filename>HexagonROM-bacon-V1.4-mm-OFFICIAL-20160814</Filename>
             <RomUrl
@@ -39,5 +39,5 @@
                 title="TekCafe Forum - xOS"
                 description="Visit xOS thread">http://droidvn.com/threads/rom-hexagon-offcial-v1-4-hexagon-rom-android-marshmallow-6-0-1-cho-oneplus-one-1-1.73/</XDAUrl>	
 	</ef63l>
-    </Stable>
+    </OFFICAL>
 </SlimOTA>
